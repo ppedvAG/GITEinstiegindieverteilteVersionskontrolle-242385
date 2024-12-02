@@ -1,1 +1,2 @@
 Awesome new feature
+Hello 3-Way-Merge
